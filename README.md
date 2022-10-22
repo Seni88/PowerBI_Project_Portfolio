@@ -13,7 +13,7 @@ The datasets used in these workbooks are for demostration purposes.
 
 ## Projects
 - [Eskom Power Generation Analysis](https://github.com/Seni88/PowerBI_Project_Portfolio/tree/main/Eskom%20Power%20Generation%20Analysis)
-    - Data obtained from various sources are used to derive insight in the South African Energy Crisis. Dashboards are created to aid in visualising the different aspects of the analysis.
+    - Data obtained from various sources are used to derive insight into the South African Energy Crisis. Dashboards are created to aid in visualising the different aspects of the analysis.
 
     - Dashboard 1: Infrastructure
         - Insights into attributes of each power station are derived along with correlations between each station's attributes is provided.
