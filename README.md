@@ -9,7 +9,6 @@ The datasets used in these workbooks are for demostration purposes.
 ## Folder Content
 - Power BI Dashboard
 - Datasets
-- Image of the final Dashboard
 
 ## Projects
 - [Eskom Power Generation Analysis](https://github.com/Seni88/PowerBI_Project_Portfolio/tree/main/Eskom%20Power%20Generation%20Analysis)
