@@ -34,7 +34,10 @@ The datasets used in these workbooks are for demostration purposes.
 
     - Dashboard 1: Teams Statistics
         - Statistics such as the number of runs, strike rate, batting average, batsman's and bowler's performance are displayed on this dashboard.
+        
+        ![IPL Team Statistics](https://user-images.githubusercontent.com/101188471/197387504-43d26fa4-dc77-4943-b149-45af2466ae46.png)
     
     - Dashboard 2: Toss Choice and Win Type
         - The type of wins, whether by wickets or runs, each city has and the decision whether to bat or field each team has made from a toss are displayed on this dashboard.
-    
+        
+        ![Toss Choice and WinType](https://user-images.githubusercontent.com/101188471/197387525-59f99999-8728-46b2-afd4-3d19ccf5d11c.png)    
