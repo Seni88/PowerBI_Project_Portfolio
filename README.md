@@ -48,5 +48,5 @@ The datasets used in these workbooks are for demostration purposes.
     - Dashboard 1: Stock Quoting Dashboard
         - Web scraped different stock prices and they are displayed on a dashboard.
         
-        ![Stock Quoting Dashboard]
+        ![Stock Quoting App](https://user-images.githubusercontent.com/101188471/197730491-08297de8-0955-4f8f-b188-b3ddf8e22733.png)
         
