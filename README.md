@@ -30,7 +30,7 @@ The datasets used in these workbooks are for demostration purposes.
     ![Eskom Twitter Analysis](https://user-images.githubusercontent.com/101188471/197380748-6ce386d9-c318-4688-bc2c-bdc45d968e05.png)
 
 - [Indian Premier League (IPL) Analysis](https://github.com/Seni88/PowerBI_Project_Portfolio/tree/main/Indian%20Premier%20League%20(IPL)%20Analysis)
-    - Data containing information about different teams and players in the Indian Premier League where they compete with other teams ina game of cricket.
+    - Data containing information about different teams and players in the Indian Premier League where they compete with other teams in a game of cricket.
 
     - Dashboard 1: Teams Statistics
         - Statistics such as the number of runs, strike rate, batting average, batsman's and bowler's performance are displayed on this dashboard.
@@ -41,3 +41,12 @@ The datasets used in these workbooks are for demostration purposes.
         - The type of wins, whether by wickets or runs, each city has and the decision whether to bat or field each team has made from a toss are displayed on this dashboard.
         
         ![Toss Choice and WinType](https://user-images.githubusercontent.com/101188471/197387525-59f99999-8728-46b2-afd4-3d19ccf5d11c.png)    
+
+- [Stock Quoting Dashboard](https://github.com/Seni88/PowerBI_Project_Portfolio/tree/main/Stock%20Quoting%20Dashboard)
+    - Historical data of high and low prices of diffenrent stocks are pulled from Yahoo Finance website.
+
+    - Dashboard 1: Stock Quoting Dashboard
+        - Web scraped different stock prices and they are displayed on a dashboard.
+        
+        ![Stock Quoting Dashboard](../../Focus/Data%20Science%20Portfolio/Stock%20Quoting%20Dashboard/Stock%20Quoting%20App.png)
+        
