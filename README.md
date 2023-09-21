@@ -1,5 +1,5 @@
 # Microsoft Power BI Project Portfolio
-This repository contains a portfolio of Data Visualization projects that were completed by me for academic and self learning purposes. The projects are presented in the form of Power BI Dashboards.
+This repository contains a portfolio of Data Visualization projects that were completed by me for academic and self learning purposes. The projects are presented in the form of Microsoft Power BI Dashboards.
 
 The datasets used in these workbooks are for demostration purposes.
 
