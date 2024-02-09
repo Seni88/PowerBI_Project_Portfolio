@@ -43,7 +43,7 @@ The datasets used in these workbooks are for demostration purposes.
         ![Toss Choice and WinType](https://user-images.githubusercontent.com/101188471/197387525-59f99999-8728-46b2-afd4-3d19ccf5d11c.png)    
 
 - [Stock Quoting Dashboard](https://github.com/Seni88/PowerBI_Project_Portfolio/tree/main/Stock%20Quoting%20Dashboard)
-    - Historical data of high and low prices of diffenrent stocks are pulled from Yahoo Finance website.
+    - Historical data on high and low prices of different stocks are pulled from Yahoo Finance website
 
     - Dashboard 1: Stock Quoting Dashboard
         - Web scraped different stock prices and they are displayed on a dashboard.
